@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D064E6C12871E48200DDD4B9 /* SetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E6C02871E48200DDD4B9 /* SetApp.swift */; };
+		D064E6C12871E48200DDD4B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E6C02871E48200DDD4B9 /* main.swift */; };
 		D064E6C32871E48200DDD4B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E6C22871E48200DDD4B9 /* ContentView.swift */; };
 		D064E6C52871E48700DDD4B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E6C42871E48700DDD4B9 /* Assets.xcassets */; };
 		D064E6C82871E48700DDD4B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E6C72871E48700DDD4B9 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D064E6BD2871E48200DDD4B9 /* Set.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Set.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D064E6C02871E48200DDD4B9 /* SetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetApp.swift; sourceTree = "<group>"; };
+		D064E6C02871E48200DDD4B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D064E6C22871E48200DDD4B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D064E6C42871E48700DDD4B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D064E6C72871E48700DDD4B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D064E6BF2871E48200DDD4B9 /* Set */ = {
 			isa = PBXGroup;
 			children = (
-				D064E6C02871E48200DDD4B9 /* SetApp.swift */,
+				D064E6C02871E48200DDD4B9 /* main.swift */,
 				D064E6C22871E48200DDD4B9 /* ContentView.swift */,
 				D064E6C42871E48700DDD4B9 /* Assets.xcassets */,
 				D064E6C92871E48700DDD4B9 /* Set.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D064E6C32871E48200DDD4B9 /* ContentView.swift in Sources */,
-				D064E6C12871E48200DDD4B9 /* SetApp.swift in Sources */,
+				D064E6C12871E48200DDD4B9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
